@@ -1,10 +1,7 @@
-# Hospitality-Dashboard
-[View My Power BI Dashboard](https://app.powerbi.com/groups/1b0862a0-b82e-4e2b-8250-92acad75fd3d/reports/e7f49df6-d0b9-4286-a569-81a2d18410ca?ctid=2109ce83-7de4-4471-91ff-2053f90a1fd9&pbi_source=linkShare)
-
-
-
 # 🏨 Hospitality Insights: Global Hotel Bookings Dashboard
 A dynamic, interactive data visualization tool built to explore hotel booking trends across multiple cities, focusing on occupancy rates, revenue analysis, guest preferences, and hotel performance metrics.
+
+[View My Power BI Dashboard](https://app.powerbi.com/groups/1b0862a0-b82e-4e2b-8250-92acad75fd3d/reports/e7f49df6-d0b9-4286-a569-81a2d18410ca?ctid=2109ce83-7de4-4471-91ff-2053f90a1fd9&pbi_source=linkShare)
 
 ## Short Description / Purpose
 The Hospitality Insights Dashboard is a Power BI report designed to analyze booking data for hotels across various cities, providing insights into occupancy, revenue, guest demographics, and booking patterns. It serves hotel managers, tourism analysts, and business strategists to optimize operations and enhance customer experiences.
